@@ -1,4 +1,6 @@
-# angular-seed-hoodie - a seed for running angular and hoodie together
+#[http://angularjs.org/](Angular) + [https://github.com/hoodiehq](Hoodie) - a seed, a proxy, much fun!
+
+*Angular-seed-hoodie* - a seed for running angular and hoodie together
 
 Hoodie is a generic backend based on node.js and couch-db.
 
