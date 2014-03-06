@@ -1,3 +1,5 @@
+![](https://david-dm.org/jhohlfeld/angular-seed-hoodie.png)
+
 #[Angular](http://angularjs.org/) + [Hoodie](https://github.com/hoodiehq) - a seed, a proxy, so much fun!
 
 *Angular-seed-hoodie* - a seed for running angular and hoodie together
