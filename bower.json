@@ -1,0 +1,21 @@
+{
+  "name": "angular-seed",
+  "version": "0.0.0",
+  "authors": [
+    "Jakob Hohlfeld <jakob.hohlfeld@netronaut.de>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.14",
+    "angular-route": "~1.2.14",
+    "hoodie": "~0.7.0",
+    "jquery": "~2.1.0"
+  }
+}
