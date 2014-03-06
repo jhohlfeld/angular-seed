@@ -1,10 +1,27 @@
-*Update follows*
+# angular-seed-hoodie - a seed for running angular and hoodie together
+
+Hoodie is a generic backend based on node.js and couch-db.
+
+Install this seed by running:
 
     & npm install
     & bower install
+
+Then, to start a backend and a frontend server:
+
     & grunt serve
-    
+
+The first time you'll be prompted for an administrative password.
+
+As soon as hoodie is initialized, proxy is configured and connect starts a server in live-reload manner.
+
+Now you run one frontend server with angularjs and a backend server with hoodie. Both connected via proxy.
+
+Thanks to https://github.com/drewzboto/grunt-connect-proxy and http://stackoverflow.com/questions/19193914/yeoman-webapp-with-grunt-connect-proxy-not-working.
+
 ----
+
+Here's the original README.md:
 
 # angular-seed — the seed for AngularJS apps
 
